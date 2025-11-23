@@ -46,6 +46,7 @@ assign F = (~A & B) | (C & D) | (A & ~D);
 
 endmodule
 ```
+DESIGNED BY: BALAMURUGAN.K REG NO:25017932
 **RTL realization**
 
 **Output:**
